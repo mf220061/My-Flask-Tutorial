@@ -1,3 +1,4 @@
 # My-Flask-Tutorialのflask-tutorialにおいてvenvなどのファイルをコミットしないようにする
 flaskr/__pycache__/
 venv/
+flaskr.egg-info/
