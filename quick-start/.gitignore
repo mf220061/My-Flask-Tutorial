@@ -1,0 +1,2 @@
+# My-Flask-Tutorialのflask-tutorialにおいてvenvなどのファイルをコミットしないようにする
+__pycache__/
